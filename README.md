@@ -1,5 +1,6 @@
 # S.O.N.I.C-Accident-Response-Rover (Smart Obstacle-Navigation & Integrated Control)
-A voice-controlled accident response rover built using ESP32, featuring obstacle detection, gas sensing, and alert mechanisms. The project follows a stage-wise development approach for testing and integration.
+A voice-controlled accident response rover built using ESP32, featuring obstacle detection, gas sensing, and alert mechanisms. The project follows a stage-wise development approach for testing and integration. Read this article on Medium to understand more about what went into building it:https://medium.com/@nipunipabba/the-quiet-joy-of-seeing-your-first-robot-work-and-everything-that-went-into-building-it-aeff7fa350df
+
 
 ## Features
 - Voice-controlled movement using Bluetooth via MIT App Inventor
